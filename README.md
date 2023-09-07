@@ -1,0 +1,1 @@
+An interactive dashboard using filters in microsoft Excel. This project explores bike purchase analysis in North America and Europe with features including marital status, income, children, age bracket, etc. 
